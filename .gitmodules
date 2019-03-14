@@ -1,4 +1,4 @@
 [submodule "src/Hyena"]
 	path = src/Hyena
-	url = git://gitlab.gnome.org:Archive/hyena.git
+	url = git@gitlab.gnome.org:Archive/hyena.git
 	branch = master
